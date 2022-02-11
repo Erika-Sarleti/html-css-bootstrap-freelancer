@@ -13,3 +13,22 @@
 #navbarNav{
     flex-grow: 0;
 }
+
+.centered{
+    text-align: center;
+    background-color: var(--green);
+}
+
+.icon{
+    border-radius: 50%;
+    width: 300px;
+}
+
+i{
+    width: 50px;
+}
+
+.col-2 img{
+    width: 100%;
+}
+
