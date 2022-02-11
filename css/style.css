@@ -8,15 +8,12 @@
 }
 
 
-
+.bg-green{
+ background-color: var(--green);
+}
 
 #navbarNav{
     flex-grow: 0;
-}
-
-.centered{
-    text-align: center;
-    background-color: var(--green);
 }
 
 .icon{
@@ -26,9 +23,16 @@
 
 i{
     width: 50px;
+    display: inline-block;
+}
+hr{
+    width: calc(50% - 50px);
 }
 
 .col-2 img{
     width: 100%;
 }
 
+.img{
+    width: 100%;
+}
