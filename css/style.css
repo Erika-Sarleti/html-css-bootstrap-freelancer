@@ -33,3 +33,13 @@ hr{
 .img{
     width: 100%;
 }
+
+
+.btn-white{
+    border: 1px solid white;
+}
+
+.bg-gray{
+    background-color: #3A546D;
+}
+
